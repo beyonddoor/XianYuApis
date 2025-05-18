@@ -59,8 +59,8 @@ python XianyuAutoAsync.py
 5. thank you~~~
 
 <div align="center">
-  <img src="./author/wx_pay.png" width="400px" alt="微信赞赏码"> 
-  <img src="./author/zfb_pay.jpg" width="400px" alt="支付宝收款码">
+  <img src="https://github.com/cv-cat/Spider_XHS/blob/master/author/wx_pay.png" width="400px" alt="微信赞赏码"> 
+  <img src="https://github.com/cv-cat/Spider_XHS/blob/master/author/zfb_pay.jpg" width="400px" alt="支付宝收款码">
 </div>
 
 
