@@ -1,2 +1,11 @@
 requests
 loguru
+ blackboxprotobuf==1.0.1
+ certifi==2025.8.3
+ charset-normalizer==3.4.3
+ idna==3.10
+ protobuf==3.10.0
+ setuptools==80.9.0
+ six==1.17.0
+ urllib3==2.5.0
+ websockets==15.0.1
